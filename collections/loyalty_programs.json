@@ -1,0 +1,29 @@
+[
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439081" },
+    "store_id": { "$oid": "507f1f77bcf86cd799439071" },
+    "loyalty_program_id": 6001,
+    "name": "Super Saver Rewards",
+    "description": "Earn points on every purchase and get exclusive discounts",
+    "points_per_dollar": 1,
+    "expiration_date": { "$date": "2024-12-31T00:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439082" },
+    "store_id": { "$oid": "507f1f77bcf86cd799439072" },
+    "loyalty_program_id": 6002,
+    "name": "Westside Rewards",
+    "description": "Special rewards program for Westside Market customers",
+    "points_per_dollar": 1.5,
+    "expiration_date": { "$date": "2024-12-31T00:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439083" },
+    "store_id": { "$oid": "507f1f77bcf86cd799439073" },
+    "loyalty_program_id": 6003,
+    "name": "Central Rewards",
+    "description": "Loyalty program for Central Grocery customers",
+    "points_per_dollar": 1,
+    "expiration_date": { "$date": "2024-12-31T00:00:00.000Z" }
+  }
+] 

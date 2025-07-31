@@ -1,0 +1,42 @@
+[
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439021" },
+    "name": "Dairy Products",
+    "description": "Fresh milk, cheese, yogurt, and other dairy items"
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439022" },
+    "name": "Bakery",
+    "description": "Fresh bread, pastries, cakes, and baked goods"
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439023" },
+    "name": "Fruits & Vegetables",
+    "description": "Fresh fruits, vegetables, and organic produce"
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439024" },
+    "name": "Meat & Poultry",
+    "description": "Fresh meat, chicken, pork, and seafood"
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439025" },
+    "name": "Beverages",
+    "description": "Soft drinks, juices, water, and alcoholic beverages"
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439026" },
+    "name": "Snacks",
+    "description": "Chips, nuts, candies, and other snack items"
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439027" },
+    "name": "Frozen Foods",
+    "description": "Frozen meals, ice cream, and frozen vegetables"
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439028" },
+    "name": "Household",
+    "description": "Cleaning supplies, paper products, and household items"
+  }
+] 

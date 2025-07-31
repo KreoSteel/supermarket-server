@@ -1,9 +1,9 @@
 import { ObjectId } from "mongodb";
 
-export interface CustomerOrder {
+export interface OrderItem {
     _id: ObjectId;
-    customer_id: ObjectId;
-    employee_id: ObjectId;
+    order_id: ObjectId;
+    product_id: ObjectId;
     order_date: Date;
     quantity: number;
     price_per_unit: number;

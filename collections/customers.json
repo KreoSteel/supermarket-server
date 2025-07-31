@@ -1,0 +1,42 @@
+[
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439051" },
+    "first_name": "Frank",
+    "last_name": "Miller",
+    "loyalty_card_number": 3001,
+    "phone": 5556666666,
+    "email": "frank.miller@example.com"
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439052" },
+    "first_name": "Grace",
+    "last_name": "Taylor",
+    "loyalty_card_number": 3002,
+    "phone": 5557777777,
+    "email": "grace.taylor@example.com"
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439053" },
+    "first_name": "Henry",
+    "last_name": "Anderson",
+    "loyalty_card_number": 3003,
+    "phone": 5558888888,
+    "email": "henry.anderson@example.com"
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439054" },
+    "first_name": "Ivy",
+    "last_name": "Thomas",
+    "loyalty_card_number": 3004,
+    "phone": 5559999999,
+    "email": "ivy.thomas@example.com"
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439055" },
+    "first_name": "Jack",
+    "last_name": "Jackson",
+    "loyalty_card_number": 3005,
+    "phone": 5550000000,
+    "email": "jack.jackson@example.com"
+  }
+] 

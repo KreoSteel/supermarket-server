@@ -16,5 +16,6 @@ export interface Employee {
     phone: number;
     is_active: boolean;
     hire_date: number;
-    address: Address;
+    home_address: Address;
+    work_address: Address;
 }

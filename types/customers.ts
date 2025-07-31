@@ -1,5 +1,4 @@
 import { ObjectId } from "mongodb";
-import { Address } from "./address";
 
 export interface Customer {
     _id: ObjectId;
@@ -7,5 +6,5 @@ export interface Customer {
     last_name: string;
     loyalty_card_number: number;
     phone: number;
-    address: Address;
+    email: string;
 }

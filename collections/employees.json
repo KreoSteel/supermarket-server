@@ -1,0 +1,152 @@
+[
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439041" },
+    "employee_id": 2001,
+    "first_name": "Alice",
+    "last_name": "Johnson",
+    "email": "alice.johnson@supermarket.com",
+    "gender": "female",
+    "role": "Store Manager",
+    "salary": 65000,
+    "department": "Management",
+    "employee_type": "full-time",
+    "date_of_birth": 1985,
+    "phone": 5551111111,
+    "is_active": true,
+    "hire_date": 2018,
+    "home_address": {
+      "_id": { "$oid": "507f1f77bcf86cd799439021" },
+      "street": "789 Home Street",
+      "city": "New York",
+      "state": "NY",
+      "zip": 10002
+    },
+    "work_address": {
+      "_id": { "$oid": "507f1f77bcf86cd799439011" },
+      "street": "123 Main Street",
+      "city": "New York",
+      "state": "NY",
+      "zip": 10001
+    }
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439042" },
+    "employee_id": 2002,
+    "first_name": "Bob",
+    "last_name": "Smith",
+    "email": "bob.smith@supermarket.com",
+    "gender": "male",
+    "role": "Cashier",
+    "salary": 35000,
+    "department": "Sales",
+    "employee_type": "full-time",
+    "date_of_birth": 1990,
+    "phone": 5552222222,
+    "is_active": true,
+    "hire_date": 2019,
+    "home_address": {
+      "_id": { "$oid": "507f1f77bcf86cd799439022" },
+      "street": "456 Home Avenue",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": 90211
+    },
+    "work_address": {
+      "_id": { "$oid": "507f1f77bcf86cd799439012" },
+      "street": "456 Oak Avenue",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": 90210
+    }
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439043" },
+    "employee_id": 2003,
+    "first_name": "Carol",
+    "last_name": "Davis",
+    "email": "carol.davis@supermarket.com",
+    "gender": "female",
+    "role": "Stock Clerk",
+    "salary": 32000,
+    "department": "Inventory",
+    "employee_type": "full-time",
+    "date_of_birth": 1988,
+    "phone": 5553333333,
+    "is_active": true,
+    "hire_date": 2020,
+    "home_address": {
+      "_id": { "$oid": "507f1f77bcf86cd799439023" },
+      "street": "321 Home Road",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": 60602
+    },
+    "work_address": {
+      "_id": { "$oid": "507f1f77bcf86cd799439013" },
+      "street": "789 Pine Road",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": 60601
+    }
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439044" },
+    "employee_id": 2004,
+    "first_name": "David",
+    "last_name": "Wilson",
+    "email": "david.wilson@supermarket.com",
+    "gender": "male",
+    "role": "Department Manager",
+    "salary": 45000,
+    "department": "Produce",
+    "employee_type": "full-time",
+    "date_of_birth": 1987,
+    "phone": 5554444444,
+    "is_active": true,
+    "hire_date": 2019,
+    "home_address": {
+      "_id": { "$oid": "507f1f77bcf86cd799439024" },
+      "street": "654 Home Drive",
+      "city": "Houston",
+      "state": "TX",
+      "zip": 77002
+    },
+    "work_address": {
+      "_id": { "$oid": "507f1f77bcf86cd799439014" },
+      "street": "321 Elm Street",
+      "city": "Houston",
+      "state": "TX",
+      "zip": 77001
+    }
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439045" },
+    "employee_id": 2005,
+    "first_name": "Eva",
+    "last_name": "Brown",
+    "email": "eva.brown@supermarket.com",
+    "gender": "female",
+    "role": "Cashier",
+    "salary": 32000,
+    "department": "Sales",
+    "employee_type": "part-time",
+    "date_of_birth": 1995,
+    "phone": 5555555555,
+    "is_active": true,
+    "hire_date": 2021,
+    "home_address": {
+      "_id": { "$oid": "507f1f77bcf86cd799439025" },
+      "street": "987 Home Lane",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": 85002
+    },
+    "work_address": {
+      "_id": { "$oid": "507f1f77bcf86cd799439015" },
+      "street": "654 Maple Drive",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": 85001
+    }
+  }
+] 

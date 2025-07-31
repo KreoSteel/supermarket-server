@@ -1,0 +1,104 @@
+[
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439091" },
+    "inventory_id": 7001,
+    "inventory_name": "Organic Whole Milk",
+    "inventory_description": "Fresh organic whole milk from local farms",
+    "inventory_quantity": 50,
+    "inventory_price": 4.99,
+    "inventory_type": "product",
+    "inventory_category": "Dairy",
+    "inventory_subcategory": "Milk",
+    "inventory_supplier": {
+      "_id": { "$oid": "507f1f77bcf86cd799439031" },
+      "supplier_id": 1001,
+      "supplier_name": "Fresh Dairy Co.",
+      "supplier_email": "contact@freshdairy.com",
+      "supplier_phone": 5551234567,
+      "supplier_address": {
+        "_id": { "$oid": "507f1f77bcf86cd799439011" },
+        "street": "123 Main Street",
+        "city": "New York",
+        "state": "NY",
+        "zip": 10001
+      },
+      "supplier_country": "USA",
+      "is_active": true,
+      "supplier_type": "manufacturer",
+      "supplier_since": 2018,
+      "supplier_contact_person": "John Smith",
+      "supplier_contact_person_email": "john.smith@freshdairy.com",
+      "supplier_contact_person_phone": 5551234568,
+      "supplier_contact_person_address": {
+        "_id": { "$oid": "507f1f77bcf86cd799439011" },
+        "street": "123 Main Street",
+        "city": "New York",
+        "state": "NY",
+        "zip": 10001
+      }
+    },
+    "inventory_location": {
+      "_id": { "$oid": "507f1f77bcf86cd799439011" },
+      "street": "123 Main Street",
+      "city": "New York",
+      "state": "NY",
+      "zip": 10001
+    },
+    "inventory_reorder_point": 20,
+    "inventory_reorder_quantity": 30,
+    "inventory_reorder_date": 20240201,
+    "inventory_reorder_cost": 149.70,
+    "inventory_reorder_lead_time": 3
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439092" },
+    "inventory_id": 7002,
+    "inventory_name": "Whole Wheat Bread",
+    "inventory_description": "Fresh whole wheat bread baked daily",
+    "inventory_quantity": 30,
+    "inventory_price": 3.49,
+    "inventory_type": "product",
+    "inventory_category": "Bakery",
+    "inventory_subcategory": "Bread",
+    "inventory_supplier": {
+      "_id": { "$oid": "507f1f77bcf86cd799439032" },
+      "supplier_id": 1002,
+      "supplier_name": "Organic Farms Inc.",
+      "supplier_email": "info@organicfarms.com",
+      "supplier_phone": 5552345678,
+      "supplier_address": {
+        "_id": { "$oid": "507f1f77bcf86cd799439012" },
+        "street": "456 Oak Avenue",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": 90210
+      },
+      "supplier_country": "USA",
+      "is_active": true,
+      "supplier_type": "manufacturer",
+      "supplier_since": 2019,
+      "supplier_contact_person": "Sarah Johnson",
+      "supplier_contact_person_email": "sarah.johnson@organicfarms.com",
+      "supplier_contact_person_phone": 5552345679,
+      "supplier_contact_person_address": {
+        "_id": { "$oid": "507f1f77bcf86cd799439012" },
+        "street": "456 Oak Avenue",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": 90210
+      }
+    },
+    "inventory_location": {
+      "_id": { "$oid": "507f1f77bcf86cd799439012" },
+      "street": "456 Oak Avenue",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": 90210
+    },
+    "inventory_reorder_point": 15,
+    "inventory_reorder_quantity": 25,
+    "inventory_reorder_date": 20240201,
+    "inventory_reorder_cost": 87.25,
+    "inventory_reorder_lead_time": 2
+  }
+] 

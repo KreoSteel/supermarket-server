@@ -1,0 +1,142 @@
+[
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439031" },
+    "supplier_id": 1001,
+    "supplier_name": "Fresh Dairy Co.",
+    "supplier_email": "contact@freshdairy.com",
+    "supplier_phone": 5551234567,
+    "supplier_address": {
+      "_id": { "$oid": "507f1f77bcf86cd799439011" },
+      "street": "123 Main Street",
+      "city": "New York",
+      "state": "NY",
+      "zip": 10001
+    },
+    "supplier_country": "USA",
+    "is_active": true,
+    "supplier_type": "manufacturer",
+    "supplier_since": 2018,
+    "supplier_contact_person": "John Smith",
+    "supplier_contact_person_email": "john.smith@freshdairy.com",
+    "supplier_contact_person_phone": 5551234568,
+    "supplier_contact_person_address": {
+      "_id": { "$oid": "507f1f77bcf86cd799439011" },
+      "street": "123 Main Street",
+      "city": "New York",
+      "state": "NY",
+      "zip": 10001
+    }
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439032" },
+    "supplier_id": 1002,
+    "supplier_name": "Organic Farms Inc.",
+    "supplier_email": "info@organicfarms.com",
+    "supplier_phone": 5552345678,
+    "supplier_address": {
+      "_id": { "$oid": "507f1f77bcf86cd799439012" },
+      "street": "456 Oak Avenue",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": 90210
+    },
+    "supplier_country": "USA",
+    "is_active": true,
+    "supplier_type": "manufacturer",
+    "supplier_since": 2019,
+    "supplier_contact_person": "Sarah Johnson",
+    "supplier_contact_person_email": "sarah.johnson@organicfarms.com",
+    "supplier_contact_person_phone": 5552345679,
+    "supplier_contact_person_address": {
+      "_id": { "$oid": "507f1f77bcf86cd799439012" },
+      "street": "456 Oak Avenue",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": 90210
+    }
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439033" },
+    "supplier_id": 1003,
+    "supplier_name": "Global Distributors",
+    "supplier_email": "sales@globaldist.com",
+    "supplier_phone": 5553456789,
+    "supplier_address": {
+      "_id": { "$oid": "507f1f77bcf86cd799439013" },
+      "street": "789 Pine Road",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": 60601
+    },
+    "supplier_country": "USA",
+    "is_active": true,
+    "supplier_type": "distributor",
+    "supplier_since": 2017,
+    "supplier_contact_person": "Mike Davis",
+    "supplier_contact_person_email": "mike.davis@globaldist.com",
+    "supplier_contact_person_phone": 5553456790,
+    "supplier_contact_person_address": {
+      "_id": { "$oid": "507f1f77bcf86cd799439013" },
+      "street": "789 Pine Road",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": 60601
+    }
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439034" },
+    "supplier_id": 1004,
+    "supplier_name": "Premium Meats Ltd.",
+    "supplier_email": "orders@premiummeats.com",
+    "supplier_phone": 5554567890,
+    "supplier_address": {
+      "_id": { "$oid": "507f1f77bcf86cd799439014" },
+      "street": "321 Elm Street",
+      "city": "Houston",
+      "state": "TX",
+      "zip": 77001
+    },
+    "supplier_country": "USA",
+    "is_active": true,
+    "supplier_type": "manufacturer",
+    "supplier_since": 2020,
+    "supplier_contact_person": "Lisa Wilson",
+    "supplier_contact_person_email": "lisa.wilson@premiummeats.com",
+    "supplier_contact_person_phone": 5554567891,
+    "supplier_contact_person_address": {
+      "_id": { "$oid": "507f1f77bcf86cd799439014" },
+      "street": "321 Elm Street",
+      "city": "Houston",
+      "state": "TX",
+      "zip": 77001
+    }
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439035" },
+    "supplier_id": 1005,
+    "supplier_name": "Bulk Wholesale Co.",
+    "supplier_email": "info@bulkwholesale.com",
+    "supplier_phone": 5555678901,
+    "supplier_address": {
+      "_id": { "$oid": "507f1f77bcf86cd799439015" },
+      "street": "654 Maple Drive",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": 85001
+    },
+    "supplier_country": "USA",
+    "is_active": true,
+    "supplier_type": "wholesale",
+    "supplier_since": 2016,
+    "supplier_contact_person": "Robert Brown",
+    "supplier_contact_person_email": "robert.brown@bulkwholesale.com",
+    "supplier_contact_person_phone": 5555678902,
+    "supplier_contact_person_address": {
+      "_id": { "$oid": "507f1f77bcf86cd799439015" },
+      "street": "654 Maple Drive",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": 85001
+    }
+  }
+] 

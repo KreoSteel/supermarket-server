@@ -1,0 +1,42 @@
+[
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439011" },
+    "name_of_address": "Main Office",
+    "street": "123 Main Street",
+    "city": "New York",
+    "state": "NY",
+    "zip": 10001
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439012" },
+    "name_of_address": "Warehouse",
+    "street": "456 Oak Avenue",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": 90210
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439013" },
+    "name_of_address": "Distribution Center",
+    "street": "789 Pine Road",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": 60601
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439014" },
+    "name_of_address": "Headquarters",
+    "street": "321 Elm Street",
+    "city": "Houston",
+    "state": "TX",
+    "zip": 77001
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439015" },
+    "name_of_address": "Retail Store",
+    "street": "654 Maple Drive",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": 85001
+  }
+] 

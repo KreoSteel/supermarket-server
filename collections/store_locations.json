@@ -1,0 +1,47 @@
+[
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439071" },
+    "store_id": 5001,
+    "store_name": "Downtown Supermarket",
+    "rating": 4.5,
+    "phone": 5551234567,
+    "email": "downtown@supermarket.com",
+    "address": {
+      "_id": { "$oid": "507f1f77bcf86cd799439011" },
+      "street": "123 Main Street",
+      "city": "New York",
+      "state": "NY",
+      "zip": 10001
+    }
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439072" },
+    "store_id": 5002,
+    "store_name": "Westside Market",
+    "rating": 4.2,
+    "phone": 5552345678,
+    "email": "westside@supermarket.com",
+    "address": {
+      "_id": { "$oid": "507f1f77bcf86cd799439012" },
+      "street": "456 Oak Avenue",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": 90210
+    }
+  },
+  {
+    "_id": { "$oid": "507f1f77bcf86cd799439073" },
+    "store_id": 5003,
+    "store_name": "Central Grocery",
+    "rating": 4.0,
+    "phone": 5553456789,
+    "email": "central@supermarket.com",
+    "address": {
+      "_id": { "$oid": "507f1f77bcf86cd799439013" },
+      "street": "789 Pine Road",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": 60601
+    }
+  }
+] 
